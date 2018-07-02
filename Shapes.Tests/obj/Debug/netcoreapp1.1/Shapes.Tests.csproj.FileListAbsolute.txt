@@ -1,0 +1,9 @@
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp1.1\Shapes.Tests.deps.json
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp1.1\Shapes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp1.1\Shapes.Tests.AssemblyInfo.cs
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp1.1\Shapes.Tests.dll
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp1.1\Shapes.Tests.pdb
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp1.1\Shapes.dll
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\bin\Debug\netcoreapp1.1\Shapes.pdb
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp1.1\Shapes.Tests.dll
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes.Tests\obj\Debug\netcoreapp1.1\Shapes.Tests.pdb

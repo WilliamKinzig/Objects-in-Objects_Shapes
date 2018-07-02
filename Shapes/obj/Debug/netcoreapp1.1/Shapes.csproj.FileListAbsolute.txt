@@ -1,0 +1,7 @@
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\bin\Debug\netcoreapp1.1\Shapes.deps.json
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\bin\Debug\netcoreapp1.1\Shapes.dll
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\bin\Debug\netcoreapp1.1\Shapes.pdb
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\obj\Debug\netcoreapp1.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\obj\Debug\netcoreapp1.1\Shapes.AssemblyInfo.cs
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\obj\Debug\netcoreapp1.1\Shapes.dll
+C:\Users\William Kinzig\desktop\Shapes.Solution\Shapes\obj\Debug\netcoreapp1.1\Shapes.pdb
