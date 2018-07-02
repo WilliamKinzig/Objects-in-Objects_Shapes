@@ -1,6 +1,6 @@
 using System;
 
-namespace Shapes
+namespace Shapes.Models
 {
   public class Rectangle
   {
@@ -50,28 +50,6 @@ namespace Shapes
   }
 }
 
-class Rectangle
-{
-  public int Length;
-  public int Width;
-
-  public bool IsSquare()
-  {
-    if (Length == Width)
-    {
-      return true;
-    }
-    else
-    {
-      return false;
-    }
-  }
-
-  public int GetArea()
-  {
-   return Length * Width;
-  }
-}
 
 
 public class Program
